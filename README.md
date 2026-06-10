@@ -36,4 +36,4 @@ Both nodes utilize the same wiring configuration:
 
 
 
-[Image of network topology diagram]
+
